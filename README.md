@@ -24,6 +24,7 @@ Filter the log file monitored by CloudWatchLogs with arbitrary words.
 When you monitor the EC 2 instance, it automatically registers the Instance ID in the user macros.
 
 ![features](http://cdn-ak.f.st-hatena.com/images/fotolife/t/tsubauaaa/20170122/20170122234219.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdavidhhessler%2Fzabbix_aws_integration.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdavidhhessler%2Fzabbix_aws_integration?ref=badge_shield)
 
 ## Installation
 1. Place files under [external_checks_scripts](https://github.com/tsubauaaa/zabbix_aws_integration/tree/master/external_checks_scripts) in  the location for external scripts of your zabbix server.
@@ -39,6 +40,9 @@ When you monitor the EC 2 instance, it automatically registers the Instance ID i
 
 ## License
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdavidhhessler%2Fzabbix_aws_integration.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdavidhhessler%2Fzabbix_aws_integration?ref=badge_large)
 
 ## Author
 [tsubauaaa](https://github.com/tsubauaaa)
